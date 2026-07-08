@@ -43,7 +43,7 @@
 }
 
 .logo-talk {
-  color: var(--color-white);
+  color: var(--color-primary);
   transition: color var(--transition-normal);
 }
 
